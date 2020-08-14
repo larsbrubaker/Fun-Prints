@@ -1,0 +1,163 @@
+{
+  "ID": "6312b2ef-d49e-4424-874e-4601753b0208",
+  "Name": "Workspace 2020-08-13 15_42_32.mcx",
+  "Children": [
+    {
+      "ID": "ca649f45-1f28-4531-a26c-a316ca73877c",
+      "Color": "#FE8D86",
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-47.05,-37.849999999999994,0.0,1.0]",
+      "MeshPath": "0A1B05677D381B7F52CB6EA5FD6436E733425041.stl",
+      "Name": "Subtract - Flattened (2)",
+      "OwnerID": "bdab0197-6a96-475a-87f4-ad991300bb4e"
+    },
+    {
+      "ID": "349faeac-a4da-4f6d-87c5-f71a54a54e1f",
+      "Advanced": true,
+      "Expanded": true,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-47.05,-37.849999999999994,0.0,1.0]",
+      "Name": "Align",
+      "SelectedChild": [
+        "e3df110c-c92a-423e-abfb-4a21a6fbe246"
+      ],
+      "StartingMin": {
+        "94520767-9fb4-4f3d-98b8-de8f541480a7": {
+          "X": 145.1,
+          "Y": 161.4,
+          "Z": 4.0
+        },
+        "e3df110c-c92a-423e-abfb-4a21a6fbe246": {
+          "X": 150.75,
+          "Y": 158.75,
+          "Z": 0.0
+        }
+      },
+      "TypeName": "AlignObject3D",
+      "XAlign": "Max",
+      "XAlignTo": "Min",
+      "XOffset": 0.05,
+      "YAlign": "Min",
+      "YAlignTo": "None",
+      "YOffset": 0.0,
+      "ZAlign": "None",
+      "ZAlignTo": "None",
+      "ZOffset": 0.0,
+      "Children": [
+        {
+          "ID": "94520767-9fb4-4f3d-98b8-de8f541480a7",
+          "Color": "#FE8D86",
+          "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.05000000000001148,0.0,0.0,1.0]",
+          "MeshPath": "BF366309FF1019293842233DB8B00AD64FD27374.stl",
+          "Name": "Subtract - Flattened (4)",
+          "OwnerID": "c8d7af26-fbd9-4b95-9ab8-652924715e4a"
+        },
+        {
+          "ID": "e3df110c-c92a-423e-abfb-4a21a6fbe246",
+          "Advanced": false,
+          "Name": "Align",
+          "SelectedChild": [
+            "f8dede25-6403-4dc0-b9e4-441e0b5313e3"
+          ],
+          "StartingMin": {
+            "f8dede25-6403-4dc0-b9e4-441e0b5313e3": {
+              "X": 150.75,
+              "Y": 158.75,
+              "Z": 0.0
+            },
+            "c8ab57cb-ef9e-42f6-b7b6-c9bee74eb92b": {
+              "X": 172.69999694824219,
+              "Y": 158.80000305175781,
+              "Z": 4.0
+            }
+          },
+          "TypeName": "AlignObject3D",
+          "XAlign": "None",
+          "XAlignTo": "None",
+          "XOffset": 0.0,
+          "YAlign": "Min",
+          "YAlignTo": "None",
+          "YOffset": 0.0,
+          "ZAlign": "None",
+          "ZAlignTo": "None",
+          "ZOffset": 0.0,
+          "Children": [
+            {
+              "ID": "f8dede25-6403-4dc0-b9e4-441e0b5313e3",
+              "Color": "#FE8D86",
+              "MeshPath": "34A571792FE5BB5CE9C74F8412268E1F59AA3AEC.stl",
+              "Name": "Cube (2)",
+              "OwnerID": "cc71f71a-6c39-463d-bef9-6091a217db88"
+            },
+            {
+              "ID": "c8ab57cb-ef9e-42f6-b7b6-c9bee74eb92b",
+              "Color": "#FE8D86",
+              "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-0.0500030517578125,0.0,1.0]",
+              "MeshPath": "88D547A4E4D42A0D230783435D706CF04EF4B324.stl",
+              "Name": "Subtract - Flattened",
+              "OwnerID": "e7a6a11e-5ca7-4d15-a55e-0ea5e04fb118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "a5ee29e6-3ecf-47c8-a108-365d282c83fa",
+      "Advanced": false,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,-47.05,-37.849999999999994,0.0,1.0]",
+      "Name": "Align",
+      "SelectedChild": [
+        "603ca8a5-a198-47ed-aa1d-6bdb76f0004c"
+      ],
+      "StartingMin": {
+        "603ca8a5-a198-47ed-aa1d-6bdb76f0004c": {
+          "X": 134.25,
+          "Y": 130.75,
+          "Z": 0.0
+        },
+        "90dcc688-6200-4134-ba80-0b32ff9cc51d": {
+          "X": 134.3,
+          "Y": 134.70000000000002,
+          "Z": 4.0
+        },
+        "78e6cacb-a02b-422b-b348-8adfa22d770a": {
+          "X": 134.25,
+          "Y": 130.75,
+          "Z": 0.0
+        }
+      },
+      "TypeName": "AlignObject3D",
+      "XAlign": "Min",
+      "XAlignTo": "None",
+      "XOffset": 0.0,
+      "YAlign": "None",
+      "YAlignTo": "None",
+      "YOffset": 0.0,
+      "ZAlign": "None",
+      "ZAlignTo": "None",
+      "ZOffset": 0.0,
+      "Children": [
+        {
+          "ID": "603ca8a5-a198-47ed-aa1d-6bdb76f0004c",
+          "Color": "#FE8D86",
+          "MeshPath": "E6F5F042960B7C188A8BE27B4ABB41F86F69D950.stl",
+          "Name": "Cube (1)",
+          "OwnerID": "93a67fd2-5325-4e7c-9526-b34416d079e2"
+        },
+        {
+          "ID": "90dcc688-6200-4134-ba80-0b32ff9cc51d",
+          "Color": "#FE8D86",
+          "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,-0.10694580078123295,0.0,1.0]",
+          "MeshPath": "9BDED950A8893D2A7353811F262F4D2E3183CCB2.stl",
+          "Name": "Subtract - Flattened (3)",
+          "OwnerID": "9ade4b50-6010-4788-98fc-0e59b7b4e053"
+        },
+        {
+          "ID": "78e6cacb-a02b-422b-b348-8adfa22d770a",
+          "Color": "#FE8D86",
+          "MeshPath": "222578855A3476C6F887D7D0B736100AD259E1F5.stl",
+          "Name": "Cube",
+          "OwnerID": "fbb83735-a474-4ee2-a42b-066fcef4c8c5"
+        }
+      ]
+    }
+  ]
+}
